@@ -1,0 +1,10 @@
+langchain
+google-generativeai 
+pypdf
+docx2txt
+faiss-cpu
+PyPDF2
+streamlit==1.24.0
+langchain_google_genai
+python-dotenv
+python-docx
